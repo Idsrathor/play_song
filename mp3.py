@@ -21,7 +21,7 @@ def main():
     selected_song = st.selectbox("Select a song", mp3_files)
 
     if st.button("Play"):
-        song_path = os.path.join("path/to/your/mp3/files", selected_song)
+        song_path = os.path.join("play_songs", selected_song)
         play_audio(song_path)
 
 if __name__ == "__main__":
