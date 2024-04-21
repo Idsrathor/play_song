@@ -21,7 +21,7 @@ def main():
     selected_song = st.selectbox("Select a song", mp3_files)
 
     if st.button("Play"):
-        song_path = os.path.join("https://github.com/Idsrathor/play_song/blob/main", selected_song)
+        song_path = "my_queen.mp3"
         play_audio(song_path)
 
 if __name__ == "__main__":
