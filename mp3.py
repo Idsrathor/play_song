@@ -12,9 +12,9 @@ def main():
 
     # List of MP3 files (you can customize this)
     mp3_files = [
-        "my_queen.mp3",
-        "kale_kagaz.mp3",
-        "matak_chalungi.mp3",
+        "my_queen",
+        "kale_kagaz",
+        "matak_chalungi",
         # Add more songs here
     ]
 
