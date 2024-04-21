@@ -15,8 +15,8 @@ def main():
         "my_queen.mp3",
         "kale_kagaz.mp3",
         "matak_chalungi.mp3",
-        "Bajao_Dhol_Swagat_Me.mp3,
-        
+        "Bajao_Dhol_Swagat_Me.mp3",
+        "Har_Har_Shambhu.mp3"        
         # Add more songs here
     ]
 
